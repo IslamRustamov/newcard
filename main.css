@@ -69,7 +69,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
   margin-left: 20px;
   margin-right: 20px;
 }
@@ -110,7 +111,8 @@ h2 {
 
 @media screen and (max-width: 520px) {
   h1,
-  h2 {
+  h2,
+  h3 {
     font-size: 1em;
   }
   .arrow {
