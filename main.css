@@ -110,12 +110,14 @@ h3 {
 }
 
 @media screen and (max-width: 520px) {
-  h1,
-  h2 {
+  h1 {
     font-size: 1em;
   }
+  h2 {
+    font-size: 0.85em;
+  }
   h3 {
-    font-size: 0.5em;
+    font-size: 0.7em;
   }
   .arrow {
     border-color: transparent;
